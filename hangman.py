@@ -37,7 +37,7 @@ class Hangman:
                 self.occurences.append(ask)
                 if('-' not in self.guess):
                     print(f"\nThe word is : {self.guess}")
-                    print("\nYou have passed the trickster!")
+                    print("\nYou have guessed the word!")
                     break
             
         del self.occurences
