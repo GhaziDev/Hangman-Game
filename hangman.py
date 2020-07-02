@@ -39,10 +39,21 @@ class Hangman:
                     print(f"\nThe word is : {self.guess}")
                     print("\nYou have guessed the word!")
                     break
-            
-        del self.occurences
-h=Hangman()
-h.play()
+def play_game():
+    while(True):
+        h=Hangman()
+        h.play()
+        t=input("Do you want to play again? (1.yes or 2.no) :  ")
+        if(t=='1' or t=='yes' or t=='y'):
+            continue
+        else:
+            print("Thanks for playing!")
+            break 
+
+
+play_game()
+
+
 #O(n^2) worst case
 #o(n) best case
             
