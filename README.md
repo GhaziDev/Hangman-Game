@@ -15,7 +15,7 @@ Because : 1)This is waste of print functions.
 
 2)waste of lines code.
 
-3) will probably make my code ugly.
+3)will probably make my code ugly.
 
 # Lastly....
 This is going to be updated using different method of generating words.
