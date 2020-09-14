@@ -11,7 +11,8 @@ After storing the random word, another attribute ``self.guess`` which is made of
 and the game keep going on until you win or you lose, the word is revealed in both cases at the end, one last thing is that you have ``8 lives``.
 
 # Why no "Hanging man" drawing?
-Because : 1)This is waste of print functions.
+
+1)This is waste of print functions.
 
 2)waste of lines code.
 
