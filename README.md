@@ -1,6 +1,6 @@
 # Hangman-Game
 # Definition: 
-It is a game that work on guessing letters until you get the correct word, it has various difficulties, some games give you a letter or 2 as a starter, some gives you nothing,But this project make it so difficult for the user and it give no letter.
+Hangman is  a game that work on guessing letters until you get the correct word, it has various difficulties, some games give you a letter or 2 as a starter, some gives you nothing,But this project make it so difficult for the user and it give no letter.
 
 
 # How does generating words work ?
